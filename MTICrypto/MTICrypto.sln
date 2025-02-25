@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTICrypto", "MTICrypto\MTICrypto.csproj", "{6DEC8AD4-F1B1-43C1-A7B7-627056EF2375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_UnitTests", "_UnitTests\_UnitTests.csproj", "{100F7787-99F5-49AE-AC30-6705F09ED51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DEC8AD4-F1B1-43C1-A7B7-627056EF2375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEC8AD4-F1B1-43C1-A7B7-627056EF2375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEC8AD4-F1B1-43C1-A7B7-627056EF2375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEC8AD4-F1B1-43C1-A7B7-627056EF2375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100F7787-99F5-49AE-AC30-6705F09ED51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100F7787-99F5-49AE-AC30-6705F09ED51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100F7787-99F5-49AE-AC30-6705F09ED51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100F7787-99F5-49AE-AC30-6705F09ED51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D4A31F-504C-423B-903E-894EFD88DE22}
+	EndGlobalSection
+EndGlobal

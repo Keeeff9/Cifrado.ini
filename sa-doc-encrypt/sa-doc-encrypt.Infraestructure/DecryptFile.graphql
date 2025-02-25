@@ -1,0 +1,10 @@
+﻿mutation DecryptFile($input: DecryptFileInput!) {
+  decryptFile(input: $input) {
+    resultModelOfString {
+      custom2
+      error
+      message
+      state
+    }
+  }
+}

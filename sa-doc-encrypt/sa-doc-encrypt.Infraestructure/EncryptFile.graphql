@@ -1,0 +1,10 @@
+﻿mutation EncryptFile($input: EncryptFileInput!) {
+  encryptFile(input: $input) {
+    resultModelOfString {
+      custom2
+      error
+      message
+      state
+    }
+  }
+}

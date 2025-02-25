@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>sa_doc_encrypt.Infraestructure</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <GraphQL Remove="DecryptFile.graphql" />
+    <GraphQL Remove="EncryptFile.graphql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StrawberryShake.Server" Version="14.3.0" />
+	<PackageReference Include="Microsoft.Extensions.Http" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\sa-doc-encrypt.Domain\sa-doc-encrypt.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
