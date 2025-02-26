@@ -1,0 +1,9 @@
+﻿C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\DecryptRepositoryTests.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\EncryptRepositoryTests.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\KeyManagerTests.cs
+C:\Users\Kevin.diaz\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Kevin.diaz\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\Kevin.diaz\.nuget\packages\microsoft.testplatform.testhost\17.9.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\Kevin.diaz\.nuget\packages\xunit.runner.visualstudio\2.8.1\build\net6.0\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Kevin.diaz\.nuget\packages\xunit.runner.visualstudio\2.8.1\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kevin.diaz\.nuget\packages\xunit.runner.visualstudio\2.8.1\build\net6.0\xunit.runner.utility.netcoreapp10.dll

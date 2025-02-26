@@ -1,0 +1,4 @@
+﻿C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UI.Win\Form1.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UI.Win\Form1.Designer.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UI.Win\Program.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UI.Win\Form1.resx

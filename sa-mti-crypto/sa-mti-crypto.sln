@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sa-mti-crypto.Domain", "sa-mti-crypto.Domain\sa-mti-crypto.Domain.csproj", "{23085D6A-F000-4312-B4F7-665A88FEDE55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sa-mti-crypto.Infrastructure", "sa-mti-crypto-Infrastructure\sa-mti-crypto.Infrastructure.csproj", "{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23085D6A-F000-4312-B4F7-665A88FEDE55} = {23085D6A-F000-4312-B4F7-665A88FEDE55}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sa-mti-crypto.UI.Win", "sa-mti-crypto.UI.Win\sa-mti-crypto.UI.Win.csproj", "{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sa-mti-crypto.UnitTests", "sa-mti-crypto.UnitTests\sa-mti-crypto.UnitTests.csproj", "{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23085D6A-F000-4312-B4F7-665A88FEDE55} = {23085D6A-F000-4312-B4F7-665A88FEDE55}
+		{8B31439C-75D4-4AC0-A2C9-FB605A3531F4} = {8B31439C-75D4-4AC0-A2C9-FB605A3531F4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23085D6A-F000-4312-B4F7-665A88FEDE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23085D6A-F000-4312-B4F7-665A88FEDE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23085D6A-F000-4312-B4F7-665A88FEDE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23085D6A-F000-4312-B4F7-665A88FEDE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

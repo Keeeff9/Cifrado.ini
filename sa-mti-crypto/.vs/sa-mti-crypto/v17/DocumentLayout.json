@@ -1,0 +1,363 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.unittests\\keymanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|solutionrelative:sa-mti-crypto.unittests\\keymanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.unittests\\encryptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|solutionrelative:sa-mti-crypto.unittests\\encryptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.unittests\\decryptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|solutionrelative:sa-mti-crypto.unittests\\decryptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.unittests\\sa-mti-crypto.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC8BC6C8-BDBD-482C-9B34-A10C91D43DEF}|sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj|solutionrelative:sa-mti-crypto.unittests\\sa-mti-crypto.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\services\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\services\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\services\\encryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\services\\encryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.domain\\dto\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|solutionrelative:sa-mti-crypto.domain\\dto\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\services\\decryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\services\\decryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\models\\toolkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\models\\toolkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.domain\\contracts\\ikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|solutionrelative:sa-mti-crypto.domain\\contracts\\ikeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.domain\\contracts\\iencryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|solutionrelative:sa-mti-crypto.domain\\contracts\\iencryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.domain\\contracts\\idecryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|solutionrelative:sa-mti-crypto.domain\\contracts\\idecryptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.domain\\sa-mti-crypto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23085D6A-F000-4312-B4F7-665A88FEDE55}|sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj|solutionrelative:sa-mti-crypto.domain\\sa-mti-crypto.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\models\\aesconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto-Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\models\\aesconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-infrastructure\\sa-mti-crypto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B31439C-75D4-4AC0-A2C9-FB605A3531F4}|sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj|solutionrelative:sa-mti-crypto-infrastructure\\sa-mti-crypto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.ui.win\\sa-mti-crypto.ui.win.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|solutionrelative:sa-mti-crypto.ui.win\\sa-mti-crypto.ui.win.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.ui.win\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|solutionrelative:sa-mti-crypto.ui.win\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.ui.win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|solutionrelative:sa-mti-crypto.ui.win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|c:\\repositorios\\cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.ui.win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4DDC8CB-36E0-46C3-A757-48C3B6BA38A3}|sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj|solutionrelative:sa-mti-crypto.ui.win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyManagerTests.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\KeyManagerTests.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UnitTests\\KeyManagerTests.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\KeyManagerTests.cs",
+              "RelativeToolTip": "sa-mti-crypto.UnitTests\\KeyManagerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:58:53.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EncryptRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\EncryptRepositoryTests.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UnitTests\\EncryptRepositoryTests.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\EncryptRepositoryTests.cs",
+              "RelativeToolTip": "sa-mti-crypto.UnitTests\\EncryptRepositoryTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:01:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecryptRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\DecryptRepositoryTests.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UnitTests\\DecryptRepositoryTests.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\DecryptRepositoryTests.cs",
+              "RelativeToolTip": "sa-mti-crypto.UnitTests\\DecryptRepositoryTests.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:03:43.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sa-mti-crypto.UnitTests",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj",
+              "RelativeToolTip": "sa-mti-crypto.UnitTests\\sa-mti-crypto.UnitTests.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T14:07:04.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyManager.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\KeyManager.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\Services\\KeyManager.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\KeyManager.cs",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\Services\\KeyManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:45:59.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EncryptRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\EncryptRepository.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\Services\\EncryptRepository.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\EncryptRepository.cs",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\Services\\EncryptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:11:38.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Dto\\OperationResult.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.Domain\\Dto\\OperationResult.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Dto\\OperationResult.cs",
+              "RelativeToolTip": "sa-mti-crypto.Domain\\Dto\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:01:28.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DecryptRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\DecryptRepository.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\Services\\DecryptRepository.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Services\\DecryptRepository.cs",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\Services\\DecryptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:08:14.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToolKit.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Models\\ToolKit.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\Models\\ToolKit.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Models\\ToolKit.cs",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\Models\\ToolKit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:02:27.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKeyManager.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IKeyManager.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.Domain\\Contracts\\IKeyManager.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IKeyManager.cs",
+              "RelativeToolTip": "sa-mti-crypto.Domain\\Contracts\\IKeyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:42:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEncryptRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IEncryptRepository.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.Domain\\Contracts\\IEncryptRepository.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IEncryptRepository.cs",
+              "RelativeToolTip": "sa-mti-crypto.Domain\\Contracts\\IEncryptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:07:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDecryptRepository.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IDecryptRepository.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.Domain\\Contracts\\IDecryptRepository.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\Contracts\\IDecryptRepository.cs",
+              "RelativeToolTip": "sa-mti-crypto.Domain\\Contracts\\IDecryptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:07:37.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sa-mti-crypto.Domain",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj",
+              "RelativeDocumentMoniker": "sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj",
+              "RelativeToolTip": "sa-mti-crypto.Domain\\sa-mti-crypto.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T17:04:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AesConstants.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Models\\AesConstants.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\Models\\AesConstants.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\Models\\AesConstants.cs",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\Models\\AesConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:48:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sa-mti-crypto-Infrastructure",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj",
+              "RelativeToolTip": "sa-mti-crypto-Infrastructure\\sa-mti-crypto.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T19:46:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sa-mti-crypto.UI.Win",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj",
+              "RelativeToolTip": "sa-mti-crypto.UI.Win\\sa-mti-crypto.UI.Win.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T14:07:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sa-mti-crypto.UnitTests.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs",
+              "RelativeToolTip": "sa-mti-crypto.UnitTests\\obj\\Debug\\net8.0\\sa-mti-crypto.UnitTests.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:56:20.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UI.Win\\Form1.Designer.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Form1.Designer.cs",
+              "RelativeToolTip": "sa-mti-crypto.UI.Win\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:09:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Program.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UI.Win\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Program.cs",
+              "RelativeToolTip": "sa-mti-crypto.UI.Win\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:09:31.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Form1.cs",
+              "RelativeDocumentMoniker": "sa-mti-crypto.UI.Win\\Form1.cs",
+              "ToolTip": "C:\\Repositorios\\Cifrado.ini\\sa-mti-crypto\\sa-mti-crypto.UI.Win\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sa-mti-crypto.UI.Win\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:58:08.575Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

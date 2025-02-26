@@ -1,0 +1,15 @@
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.csproj.AssemblyReference.cache
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.AssemblyInfoInputs.cache
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.AssemblyInfo.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\bin\Debug\net8.0\sa-mti-crypto.Infrastructure.deps.json
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\bin\Debug\net8.0\sa-mti-crypto.Infrastructure.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\bin\Debug\net8.0\sa-mti-crypto.Infrastructure.pdb
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\refint\sa-mti-crypto.Infrastructure.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-crypto.Infrastructure.pdb
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\ref\sa-mti-crypto.Infrastructure.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\bin\Debug\net8.0\sa-mti-crypto.Domain.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\bin\Debug\net8.0\sa-mti-crypto.Domain.pdb
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\obj\Debug\net8.0\sa-mti-c.5B731022.Up2Date

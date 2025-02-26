@@ -1,0 +1,5 @@
+﻿C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\Models\AesConstants.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\Models\ToolKit.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\Services\DecryptRepository.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\Services\EncryptRepository.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\Services\KeyManager.cs

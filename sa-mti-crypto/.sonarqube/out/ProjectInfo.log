@@ -1,0 +1,27 @@
+Product projects
+---------------------------------------
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\sa-mti-crypto.Domain.csproj
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UI.Win\sa-mti-crypto.UI.Win.csproj
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto-Infrastructure\sa-mti-crypto.Infrastructure.csproj
+
+
+Test projects
+---------------------------------------
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\sa-mti-crypto.UnitTests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

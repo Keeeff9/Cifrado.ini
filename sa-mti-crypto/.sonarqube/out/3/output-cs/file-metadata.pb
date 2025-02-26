@@ -1,0 +1,8 @@
+Ö
+zC:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\obj\Debug\net8.0\sa-mti-crypto.UnitTests.AssemblyInfo.csutf-8ç
+ÅC:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8á
+|C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\obj\Debug\net8.0\sa-mti-crypto.UnitTests.GlobalUsings.g.csutf-8Ç
+wC:\Users\Kevin.diaz\.nuget\packages\microsoft.net.test.sdk\17.9.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8d
+TC:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\KeyManagerTests.cswindows-1252d
+[C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\EncryptRepositoryTests.csutf-8d
+[C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.UnitTests\DecryptRepositoryTests.csutf-8

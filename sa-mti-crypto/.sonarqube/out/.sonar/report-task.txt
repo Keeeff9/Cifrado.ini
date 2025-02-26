@@ -1,0 +1,6 @@
+projectKey=sa_mti_crypto
+serverUrl=https://sonarqube-sbx.thomasgreg.com
+serverVersion=10.6.0.92116
+dashboardUrl=https://sonarqube-sbx.thomasgreg.com/dashboard?id=sa_mti_crypto
+ceTaskId=1483ef94-bb0b-4554-84bc-58641d88d45b
+ceTaskUrl=https://sonarqube-sbx.thomasgreg.com/api/ce/task?id=1483ef94-bb0b-4554-84bc-58641d88d45b

@@ -1,0 +1,11 @@
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\bin\Debug\net8.0\sa-mti-crypto.Domain.deps.json
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\bin\Debug\net8.0\sa-mti-crypto.Domain.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\bin\Debug\net8.0\sa-mti-crypto.Domain.pdb
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.AssemblyInfoInputs.cache
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.AssemblyInfo.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\refint\sa-mti-crypto.Domain.dll
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\sa-mti-crypto.Domain.pdb
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\obj\Debug\net8.0\ref\sa-mti-crypto.Domain.dll

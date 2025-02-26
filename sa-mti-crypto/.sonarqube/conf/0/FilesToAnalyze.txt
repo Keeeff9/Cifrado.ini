@@ -1,0 +1,4 @@
+﻿C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\Contracts\IDecryptRepository.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\Contracts\IEncryptRepository.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\Contracts\IKeyManager.cs
+C:\Repositorios\Cifrado.ini\sa-mti-crypto\sa-mti-crypto.Domain\Dto\OperationResult.cs
